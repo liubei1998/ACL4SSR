@@ -1,3 +1,4 @@
 PROCESS-NAME,curl
 PROCESS-NAME,cloudflared
 DOMAIN-KEYWORD,cloudflare
+DOMAIN-SUFFIX,,bing.com
