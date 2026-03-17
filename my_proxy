@@ -1,1 +1,23 @@
+# ==========================================
+# 1. 系统核心与包管理器 (Debian / Ubuntu 专属)
+# ==========================================
+DOMAIN-SUFFIX,ubuntu.com
+DOMAIN-SUFFIX,canonical.com
+DOMAIN-KEYWORD,ubuntu
+DOMAIN-SUFFIX,debian.org
+DOMAIN-KEYWORD,debian
+# Ubuntu 默认自带的 Snap 软件包商店
+DOMAIN-SUFFIX,snapcraft.io
 
+# ==========================================
+# 2. 脚本开发与科学计算生态 (Python / Conda)
+# ==========================================
+# pip 官方源
+DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,pythonhosted.org
+# Anaconda / Miniconda (处理复杂科学计算依赖的利器)
+DOMAIN-SUFFIX,anaconda.com
+DOMAIN-SUFFIX,conda.io
+DOMAIN-KEYWORD,conda
+# WSL 相关组件和内核更新
+DOMAIN-SUFFIX,wslstorestorage.blob.core.windows.net
